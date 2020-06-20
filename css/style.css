@@ -1,0 +1,13 @@
+a{color:white;font-size: 20px;}
+.form-control::-webkit-input-placeholder {color: #fff;}
+.width{width:95%;}
+fieldset {font-size: 20px;border-radius: 10px;border-width: 5px;border-style: solid;padding: 14px;width:70%;    margin:auto;}
+legend{ width:auto;}
+.dsply{font-size:60px;}
+.bg{background-color:#222629;}
+.px{padding-left:8rem;padding-right:8rem;}
+.main{border-radius: 10px;border-width: 5px;border-style: solid;padding: 20px;margin: 7% 20% 0 20%;}
+@media (max-width:768px){.main{margin: 7% 8% 0 8%;} .dsply{font-size:18px;padding-top: 20px;}.img-fluid {max-width: 27%;margin-left: -14px;}.px{padding-left: 9px;padding-right: 20px}.nav-link {padding: 0;}.nav {flex-wrap: nowrap;}fieldset {width: 100%;}}
+
+
+
